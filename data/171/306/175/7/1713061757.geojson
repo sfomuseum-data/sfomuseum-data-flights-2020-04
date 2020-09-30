@@ -88,11 +88,11 @@
         1159283597,
         1477930469
     ],
-    "wof:lastmodified":1587226146,
+    "wof:lastmodified":1601500904,
     "wof:name":"AC737 (YYZ-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-04",
+    "wof:repo":"sfomuseum-data-flights-2020-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

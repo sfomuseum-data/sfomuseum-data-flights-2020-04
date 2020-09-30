@@ -88,11 +88,11 @@
         1159284153,
         1477930479
     ],
-    "wof:lastmodified":1587312516,
+    "wof:lastmodified":1601500903,
     "wof:name":"CI3 (SFO-TPE)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-04",
+    "wof:repo":"sfomuseum-data-flights-2020-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

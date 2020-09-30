@@ -94,11 +94,11 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1585843795,
+    "wof:lastmodified":1601500582,
     "wof:name":"KL5051 (SFO-JFK)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-04",
+    "wof:repo":"sfomuseum-data-flights-2020-04",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
