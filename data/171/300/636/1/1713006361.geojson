@@ -54,10 +54,13 @@
       1159283823,
       -1
     ],
-    "wof:lastmodified": 1651269791,
+    "wof:lastmodified": 1717030531,
     "wof:name": "AZ3299 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

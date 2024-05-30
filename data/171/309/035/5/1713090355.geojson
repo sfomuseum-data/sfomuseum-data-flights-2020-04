@@ -90,10 +90,13 @@
       1159283813,
       1477930351
     ],
-    "wof:lastmodified": 1651269829,
+    "wof:lastmodified": 1717030535,
     "wof:name": "AS3333 (SFO-LAX)",
     "wof:parent_id": 1477930351,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],

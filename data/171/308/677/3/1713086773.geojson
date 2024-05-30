@@ -2,81 +2,88 @@
   "id": 1713086773,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-04-24",
-    "date:cessation_upper":"2020-04-24",
-    "date:inception_lower":"2020-04-24",
-    "date:inception_upper":"2020-04-24",
-    "edtf:cessation":"2020-04-24T16:59:00Z",
-    "edtf:inception":"2020-04-24T08:42:00Z",
-    "flysfo:actual_timestamp":1587747720,
-    "flysfo:airline":"UA",
-    "flysfo:date":"2020-04-24",
-    "flysfo:estimated_timestamp":1587747720,
-    "flysfo:event":"A",
-    "flysfo:flight_number":"UA838",
-    "flysfo:gate":"",
-    "flysfo:journey":"NRT-SFO",
-    "flysfo:scheduled_timestamp":1587750900,
-    "flysfo:timestamp":1587750900,
-    "geom:area":0.0,
-    "geom:bbox":"-122.370943,35.755744,140.395257,37.61799",
-    "geom:latitude":36.686867,
-    "geom:longitude":9.012157,
-    "iata:airline":"UA",
-    "icao:aircraft":"B789",
-    "icao:airline":"UAL",
-    "iso:country":"US",
-    "lbl:latitude":37.61799,
-    "lbl:longitude":-122.370943,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1159293215,
-    "sfomuseum:airline_id":1159285413,
-    "sfomuseum:arrival_id":102527513,
-    "sfomuseum:departure_id":102541685,
-    "sfomuseum:flight_id":"20200424-A-UAL-838",
-    "sfomuseum:flight_number":[
-        "UAL838",
-        "UA838"
+    "date:cessation_lower": "2020-04-24",
+    "date:cessation_upper": "2020-04-24",
+    "date:inception_lower": "2020-04-24",
+    "date:inception_upper": "2020-04-24",
+    "edtf:cessation": "2020-04-24T16:59:00Z",
+    "edtf:inception": "2020-04-24T08:42:00Z",
+    "flysfo:actual_timestamp": 1587747720,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2020-04-24",
+    "flysfo:estimated_timestamp": 1587747720,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA838",
+    "flysfo:gate": "",
+    "flysfo:journey": "NRT-SFO",
+    "flysfo:scheduled_timestamp": 1587750900,
+    "flysfo:timestamp": 1587750900,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.755744,140.395257,37.617990",
+    "geom:latitude": 36.686867,
+    "geom:longitude": 9.012156999999995,
+    "iata:airline": "UA",
+    "icao:aircraft": "B789",
+    "icao:airline": "UAL",
+    "iso:country": "US",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159293215,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102541685,
+    "sfomuseum:flight_id": "20200424-A-UAL-838",
+    "sfomuseum:flight_number": [
+      "UAL838",
+      "UA838"
     ],
-    "sfomuseum:placetype":"flight",
-    "src:geom":"flysfo",
-    "src:geom_alt":[
-        "swim-route",
-        "swim-path"
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
     ],
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "swim:flight_ref":"131747103",
-        "swim:gufi":"KO55589600"
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "swim:flight_ref": "131747103",
+      "swim:gufi": "KO55589600"
     },
-    "wof:country":"US",
-    "wof:created":1587830709,
-    "wof:geomhash":"d46bcc8d1d94e68df95be799ac6a3b4c",
-    "wof:hierarchy":[],
-    "wof:id":1713086773,
-    "wof:involves":[
-        102527513,
-        102541685,
-        1159285413,
-        -1,
-        1159293215
+    "wof:country": "US",
+    "wof:created": 1587830709,
+    "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
+    "wof:hierarchy": [
+      {
+        "event_id": 1713086773
+      }
     ],
-    "wof:lastmodified":1601500764,
-    "wof:name":"UA838 (NRT-SFO)",
-    "wof:parent_id":-1,
-    "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flights-2020-04",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1713086773,
+    "wof:involves": [
+      102527513,
+      102541685,
+      1159285413,
+      -1,
+      1159293215
+    ],
+    "wof:lastmodified": 1717030535,
+    "wof:name": "UA838 (NRT-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2020-04",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.370943,
     35.755744,
     140.395257,
     37.61799
-],
-  "geometry": {"coordinates":[[140.39525699999999,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}
+  ],
+  "geometry": {"coordinates":[[140.395257,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

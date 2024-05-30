@@ -96,10 +96,13 @@
       1477930343,
       1159283813
     ],
-    "wof:lastmodified": 1651269859,
+    "wof:lastmodified": 1717030533,
     "wof:name": "SQ1370 (SFO-DAL)",
     "wof:parent_id": 1477930343,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-04",
     "wof:superseded_by": [],
     "wof:supersedes": [],
